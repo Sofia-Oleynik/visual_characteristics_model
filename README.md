@@ -30,13 +30,13 @@
 а) ![image](https://github.com/user-attachments/assets/5e8edcc4-111c-4041-aa73-f5c32f84f6ef)
 
 
-б) ![image](https://github.com/user-attachments/assets/5444a6a5-6d3a-4730-9335-061c433ced3d)
+б) ![image](https://github.com/user-attachments/assets/12b5ceab-a81c-4a47-bb8f-aab7f39d1e47)
 
 
-в) ![image](https://github.com/user-attachments/assets/12b5ceab-a81c-4a47-bb8f-aab7f39d1e47)
+в) ![image](https://github.com/user-attachments/assets/d7e0ae22-919a-46cd-8111-4006c3b04cbb)
 
 
-г) ![image](https://github.com/user-attachments/assets/d7e0ae22-919a-46cd-8111-4006c3b04cbb)
+г) ![image](https://github.com/user-attachments/assets/5444a6a5-6d3a-4730-9335-061c433ced3d)
 
 
 д) ![image](https://github.com/user-attachments/assets/28b9136a-c80c-4d78-8cb4-4df8fe852bdd)
