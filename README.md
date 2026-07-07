@@ -145,16 +145,6 @@ The system generates the following outputs:
 4. **Model Weights:** Saved model checkpoints for inference
 5. **Metrics:** PSNR, SSIM, FSIM, and mAP values
 
-## Future Development
-
-- Integration of additional depth estimation models
-- Implementation of real-time inference pipeline
-- Optimization for edge devices
-- Multi-scale training strategy
-- Additional data augmentation techniques
-- Extension to video processing
-- Implementation of model distillation for faster inference
-
 ---------------------------------------------------------
 
 # Разработка модели выделения дополнительных визуальных характеристик изображения со сложной сценой
@@ -303,13 +293,3 @@ python Main.py
 3. **Логи обучения:** Кривые потерь, гистограммы градиентов и метрики через WandB
 4. **Веса модели:** Сохраненные контрольные точки модели для инференса
 5. **Метрики:** Значения PSNR, SSIM, FSIM и mAP
-
-## Перспективы развития
-
-- Интеграция дополнительных моделей оценки глубины
-- Реализация конвейера инференса в реальном времени
-- Оптимизация для периферийных устройств
-- Стратегия многоуровневого обучения
-- Дополнительные методы аугментации данных
-- Расширение на обработку видео
-- Реализация дистилляции модели для ускорения инференса
